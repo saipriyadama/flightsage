@@ -1,0 +1,274 @@
+{
+  "tips": [
+    {
+      "id": "001",
+      "tip": "Cherry blossoms in Japan typically peak from late March to early April. Tokyo and Kyoto are the most popular viewing spots.",
+      "destination": "Japan",
+      "category": "timing"
+    },
+    {
+      "id": "002",
+      "tip": "Tuesday and Wednesday departures are typically 15-20% cheaper than weekend flights for international travel.",
+      "destination": "Global",
+      "category": "savings"
+    },
+    {
+      "id": "003",
+      "tip": "Tulum and Cancun have a dry season from December to April. Avoid June-November due to hurricane season.",
+      "destination": "Mexico",
+      "category": "timing"
+    },
+    {
+      "id": "004",
+      "tip": "Book international flights 60-90 days in advance for the best prices. Last-minute deals are rare for popular routes.",
+      "destination": "Global",
+      "category": "savings"
+    },
+    {
+      "id": "005",
+      "tip": "Costa Rica's dry season (December-April) is perfect for beaches and wildlife. The Arenal Volcano area is best in February.",
+      "destination": "Costa Rica",
+      "category": "timing"
+    },
+    {
+      "id": "006",
+      "tip": "Bali is best from April to October (dry season). Avoid December-February for monsoon rains.",
+      "destination": "Bali",
+      "category": "timing"
+    },
+    {
+      "id": "007",
+      "tip": "European cities are most affordable in November and February. Avoid July-August (peak tourist season + heat).",
+      "destination": "Europe",
+      "category": "timing"
+    },
+    {
+      "id": "008",
+      "tip": "Paris in spring (April-May) has the best weather and fewer crowds than summer. Cherry blossoms bloom in late March.",
+      "destination": "Paris",
+      "category": "timing"
+    },
+    {
+      "id": "009",
+      "tip": "The best time to visit Thailand is November to early April (dry season). Songkran festival in mid-April is amazing but very busy.",
+      "destination": "Thailand",
+      "category": "timing"
+    },
+    {
+      "id": "010",
+      "tip": "Use 'flexible dates' search on flight sites — you can save up to 30% by shifting your travel by 1-3 days.",
+      "destination": "Global",
+      "category": "savings"
+    },
+    {
+      "id": "011",
+      "tip": "Tokyo's must-see neighborhoods: Shibuya for energy, Shinjuku for nightlife, Asakusa for tradition, Harajuku for fashion.",
+      "destination": "Japan",
+      "category": "must_see"
+    },
+    {
+      "id": "012",
+      "tip": "Paris hidden gems: Canal Saint-Martin (cheaper than central Paris), Marche d'Aligre (food market), Buttes-Chaumont park.",
+      "destination": "Paris",
+      "category": "must_see"
+    },
+    {
+      "id": "013",
+      "tip": "Cancun pro tip: Avoid the Hotel Zone for authentic experience. Stay in Playa del Carmen or Tulum for better food and culture.",
+      "destination": "Mexico",
+      "category": "insider"
+    },
+    {
+      "id": "014",
+      "tip": "Iceland is best from June-August for the Midnight Sun, or September-March for Northern Lights. Reykjavik is the gateway.",
+      "destination": "Iceland",
+      "category": "timing"
+    },
+    {
+      "id": "015",
+      "tip": "Singapore is great year-round. The food scene is world-class — try hawker centers like Maxwell or Lau Pa Sat for cheap eats.",
+      "destination": "Singapore",
+      "category": "must_see"
+    },
+    {
+      "id": "016",
+      "tip": "Dubai is best from November to March (mild weather). Summer (June-September) is too hot for outdoor activities.",
+      "destination": "Dubai",
+      "category": "timing"
+    },
+    {
+      "id": "017",
+      "tip": "Australia's Sydney and Melbourne are best from October-April. Reverse seasons mean Christmas on the beach!",
+      "destination": "Australia",
+      "category": "timing"
+    },
+    {
+      "id": "018",
+      "tip": "South Korea (Seoul) is best in spring (April-May) for cherry blossoms or fall (September-November) for foliage.",
+      "destination": "South Korea",
+      "category": "timing"
+    },
+    {
+      "id": "019",
+      "tip": "When booking international flights, clear your browser cookies between searches — some sites raise prices based on search history.",
+      "destination": "Global",
+      "category": "savings"
+    },
+    {
+      "id": "020",
+      "tip": "Italy's Rome and Florence are best in April-May or September-October. Avoid August (locals leave, many places close).",
+      "destination": "Italy",
+      "category": "timing"
+    },
+    {
+      "id": "021",
+      "tip": "London's best weather is May-September. November-March can be cold and rainy but flights and hotels are 40% cheaper.",
+      "destination": "London",
+      "category": "timing"
+    },
+    {
+      "id": "022",
+      "tip": "Hong Kong is great October-December (cool & dry). Skip July-September (typhoon season).",
+      "destination": "Hong Kong",
+      "category": "timing"
+    },
+    {
+      "id": "023",
+      "tip": "Romantic destinations under $1500 from US: Mexico City, Cancun, Costa Rica, Iceland (winter), Portugal (Lisbon).",
+      "destination": "Global",
+      "category": "romantic"
+    },
+    {
+      "id": "024",
+      "tip": "For solo travelers, hostels in Bangkok, Lisbon, and Bali are budget-friendly and great for meeting people.",
+      "destination": "Global",
+      "category": "solo"
+    },
+    {
+      "id": "025",
+      "tip": "Family-friendly destinations: Orlando (theme parks), Costa Rica (wildlife), Japan (super safe), Iceland (unique).",
+      "destination": "Global",
+      "category": "family"
+    },
+    {
+      "id": "026",
+      "tip": "Beach destinations under $800 from NYC: Miami, Cancun, Punta Cana, Bahamas, Aruba (off-season).",
+      "destination": "Global",
+      "category": "savings"
+    },
+    {
+      "id": "027",
+      "tip": "Best food destinations: Tokyo (variety), Bangkok (street food), Mexico City (tacos), Lisbon (seafood), Singapore (hawker).",
+      "destination": "Global",
+      "category": "food"
+    },
+    {
+      "id": "028",
+      "tip": "Adventure destinations: Costa Rica (zip-lining), New Zealand (bungee), Iceland (hiking), Nepal (trekking), Peru (Machu Picchu).",
+      "destination": "Global",
+      "category": "adventure"
+    },
+    {
+      "id": "029",
+      "tip": "Pro tip: Use airline credit cards to avoid checked bag fees and access lounges. The 5x miles bonus on travel is worth it.",
+      "destination": "Global",
+      "category": "savings"
+    },
+    {
+      "id": "030",
+      "tip": "Always buy travel insurance for international trips — flight cancellations, lost luggage, and medical emergencies abroad are expensive.",
+      "destination": "Global",
+      "category": "tips"
+    },
+    {
+      "id": "031",
+      "tip": "For the most romantic Paris experience, take a sunset Seine river cruise — they cost 15-20 euros and offer breathtaking views of Notre-Dame, Eiffel Tower lit up, and the Louvre.",
+      "destination": "Paris",
+      "category": "romantic"
+    },
+    {
+      "id": "032",
+      "tip": "Skip touristy restaurants near Eiffel Tower. Visit Le Marais district for intimate candle-lit bistros where locals propose. Most romantic neighborhood in Paris.",
+      "destination": "Paris",
+      "category": "romantic"
+    },
+    {
+      "id": "033",
+      "tip": "Romantic Paris must-do: Picnic at Champ de Mars with wine and cheese while watching Eiffel Tower sparkle every hour after sunset.",
+      "destination": "Paris",
+      "category": "romantic"
+    },
+    {
+      "id": "034",
+      "tip": "Visit Trevi Fountain at 6 AM for a magical, crowd-free romantic moment. Throw a coin together — legend says you'll return to Rome together.",
+      "destination": "Rome",
+      "category": "romantic"
+    },
+    {
+      "id": "035",
+      "tip": "Take a private cooking class in Trastevere together. Learn pasta-making, then enjoy your meal with wine — most romantic experience in Rome.",
+      "destination": "Rome",
+      "category": "romantic"
+    },
+    {
+      "id": "036",
+      "tip": "Romantic Rome evening: Walk hand-in-hand through Trastevere at sunset, then dinner at a small family-run trattoria with candles.",
+      "destination": "Rome",
+      "category": "romantic"
+    },
+    {
+      "id": "037",
+      "tip": "Watch sunset from Bunkers del Carmel — locals secret romantic spot with 360 degree views of Barcelona. Bring wine, cheese, and your love.",
+      "destination": "Barcelona",
+      "category": "romantic"
+    },
+    {
+      "id": "038",
+      "tip": "Avoid La Rambla restaurants in Barcelona. El Born and Gracia neighborhoods have intimate romantic tapas bars where Catalans actually dine.",
+      "destination": "Barcelona",
+      "category": "romantic"
+    },
+    {
+      "id": "039",
+      "tip": "Romantic Barcelona experience: Take a sunset sailing tour along the Mediterranean coast, includes wine and tapas — perfect for couples.",
+      "destination": "Barcelona",
+      "category": "romantic"
+    },
+    {
+      "id": "040",
+      "tip": "Take a gondola ride in Venice at 6 PM, not midday. Less tourists, golden hour lighting, romantic music — 80 euros for 30 minutes of magic.",
+      "destination": "Venice",
+      "category": "romantic"
+    },
+    {
+      "id": "041",
+      "tip": "Book a sunset catamaran cruise around Santorini caldera. Includes dinner, swimming in hot springs, and the famous Oia sunset — most romantic experience in Greece.",
+      "destination": "Santorini",
+      "category": "romantic"
+    },
+    {
+      "id": "042",
+      "tip": "Tokyo romantic spots: Cherry blossoms at Meguro River, sunset at Tokyo Tower, dinner in Asakusa with traditional kaiseki cuisine.",
+      "destination": "Tokyo",
+      "category": "romantic"
+    },
+    {
+      "id": "043",
+      "tip": "Bangkok adventure: Take a longtail boat tour through canals, visit floating markets, and try authentic street food in Chinatown for under 10 dollars.",
+      "destination": "Bangkok",
+      "category": "adventure"
+    },
+    {
+      "id": "044",
+      "tip": "Cherry blossom hidden spots in Japan: Hirosaki Castle (less crowded than Kyoto), Mount Yoshino (3000+ trees), Lake Kawaguchi with Mt. Fuji views.",
+      "destination": "Japan",
+      "category": "must_see"
+    },
+    {
+      "id": "045",
+      "tip": "Beach trip Miami insider tip: Stay in South Beach for nightlife or Miami Beach for family-friendly vibes. Avoid spring break weeks (March-April).",
+      "destination": "Miami",
+      "category": "insider"
+    }
+  ]
+}
